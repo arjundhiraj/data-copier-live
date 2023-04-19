@@ -1,0 +1,5 @@
+/data-copier-env/
+.idea
+hello.py
+__pycache__
+data-copier-env
