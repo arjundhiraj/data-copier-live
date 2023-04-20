@@ -16,12 +16,6 @@ DB_DETAILS = {
             'DB_USER': os.environ.get('TARGET_DB_USER'),
             'DB_PASS': os.environ.get('TARGET_DB_PASS'),
         }
-
-
-
-
-
     }
-
-
 }
+
